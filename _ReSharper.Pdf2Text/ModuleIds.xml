@@ -1,0 +1,21 @@
+<Modules>
+  <Module PersistentId="C652E99C-1853-4626-8E77-B2F60E3457D8" ModuleId="Pdf2Text" />
+  <Module PersistentId="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+  <Module PersistentId="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data" />
+  <Module PersistentId="System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml" />
+  <Module PersistentId="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core" />
+  <Module PersistentId="commons-logging, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="commons-logging" />
+  <Module PersistentId="fontbox-1.7.0, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="fontbox-1.7.0" />
+  <Module PersistentId="IKVM.OpenJDK.Core, Version=7.0.4335.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58" ModuleId="IKVM.OpenJDK.Core" />
+  <Module PersistentId="IKVM.OpenJDK.SwingAWT, Version=7.0.4335.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58" ModuleId="IKVM.OpenJDK.SwingAWT" />
+  <Module PersistentId="IKVM.OpenJDK.Util, Version=7.0.4335.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58" ModuleId="IKVM.OpenJDK.Util" />
+  <Module PersistentId="IKVM.Runtime, Version=7.0.4335.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58" ModuleId="IKVM.Runtime" />
+  <Module PersistentId="pdfbox-1.7.0, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="pdfbox-1.7.0" />
+  <Module PersistentId="office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ModuleId="office" />
+  <Module PersistentId="Microsoft.Vbe.Interop, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ModuleId="Microsoft.Vbe.Interop" />
+  <Module PersistentId="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ModuleId="Microsoft.Office.Interop.Word" />
+  <Module PersistentId="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ModuleId="Microsoft.Office.Interop.Excel" />
+  <Module PersistentId="EPPlus, Version=3.1.2.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1" ModuleId="EPPlus" />
+  <Module PersistentId="Microsoft.Office.Interop.PowerPoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ModuleId="Microsoft.Office.Interop.PowerPoint" />
+</Modules>

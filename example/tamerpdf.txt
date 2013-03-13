@@ -1,0 +1,72 @@
+MBT-LA2 Data Sheet
+48” interchangeable test leads
+Rugged NBR rubber sleeve Internal cooling fan 
+Easy to understand
+LED display
+12 test modes
+Simple operation 
+Test results in
+15 seconds
+Features	 	
+•	Computes	State	of	Charge	for	lead	acid	battery	types	(SLA,	AGM,	Gel,	Flooded)
+• Test battery condition - quickly and easily identifies weak or failing batteries
+•	Patented	high	accuracy	Pulse	Load	test	-	battery	safe,	non-invasive
+•	Test	2-volt,	4-volt,	6-volt,	8-volt,	12-volt
+•	Measures	battery	performance	under	load,	not	just	voltage	or	internal	resistance
+•	Ideal	for	battery	management	and	cell	matching	-	reduce	costs	and	increase	reliability
+•	Made	in	U.S.A.		Patents	6,823,274	-	D611851
+Description	
+The MBT-LA2 provides a comprehensive means of testing the state of charge and battery condition for 
+2-volt, 4-volt, 6-volt, 8-volt, and 12-volt lead acid battery types (SLA, AGM, Gel, Wet).  Lightweight, compact 
+design make it an ideal tool for anyone working with lead acid batteries.  This microprocessor-controlled in-
+strument tests popular batteries using a patented, high accuracy pulse load test.  After a fully automatic test 
+cycle, percentage of remaining battery capacity is indicated on the LED bar display.  Test results are easy to 
+understand.  An integrated cooling fan dissipates heat from testing, and the circuit is protected against over-
+voltage.  Rugged NBR rubber sleeve protects against impact.  Includes 48” removeable test leads with solid 
+copper clamps.  The accessory kit (K-MBTLA2) includes a hanging strap & magnet for hands-free operation, 
+and a protective soft case.  Requires 4AA batteries (not included).
+Applications	
+• Fire/security  • Lighting  • Auto/marine/RV • Military
+• UPS   • Telecom  • Inspection  • Manufacturing
+• Medical  • Mobility  • IT   • Safety
+• Industrial  • Access control • Utilities  • Service
+ 
+• ZTS, Inc. • Cincinnati, OH
+• Toll-free: 888-796-2777
+• ztsinc.com
+Specifications	
+P/N: MBT-LA2
+Testing capability (modes): 2-volt [2-25AH] 
+    4-volt [2-25AH]
+    6-volt [1-4AH, 5-15AH, 16-50AH, 50-200AH]
+    8-volt [2-20AH, 21-150AH]
+    12-volt [1-4AH, 5-15AH, 16-50AH, 50-200AH]
+Power (internal): 4 x AA batteries
+Auto shut-off: After 20 minutes w/o test activity
+Display: 8 LEDs - colors green, yellow, red
+Pulse Load: magnitude varies according to battery type
+Test duration: approx. 15 seconds
+Test leads: 48” rubber coated lead wire, solid copper clamps, R/A sheathed banana plugs
+Dimensions: 9.25 x 6.25 x 2.00 inches
+Weight: approx. 32 oz (908 g)
+UPC: 856777000206
+MBT-LA2	Accessory	Kit	
+This accessory kit includes a protective soft case, suspension crown/hanging strap, and strong magnet.  The 
+soft case has a secure Velcro® flap and protects against dirt and impact.  The hanging strap has a quick 
+release buckle for easy fastening to conduit, pipes, ladder rung, etc., and the magnet enables attachment 
+to metal surfaces such as battery cabinets.
+P/N: K-MBTLA2
+UPC: 856777000213
+Lead	sets			
+These flexible 48” lead sets feature high strand count 18AWG rubber coated, kinkless lead wire with R/A 
+sheathed banana plugs.  Two styles of solid copper clamps available (Clip-type is standard on MBT-LA2).
+Clip-type	(standard	on	MBT-LA2)	 	 	 	 Plier-type	(accessory)
+P/N: LSC-MBTLA2      P/N: LSP-MBTLA2
+Clamp: solid copper - max jaw opening: 0.625”  Clamp: solid copper - max opening: 1.125”
+UPC: 856777000220      UPC: 856777000237
+Soft case (tester not included) Magnet attachment Hanging strap
+LSC-MBTLA2 (standard on MBT-LA2) LSP-MBTLA2 (ideal for large batteries)
+© 2010 ZTS, Inc.
+Suspension crown w/strap
+Magnet
+
