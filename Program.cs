@@ -26,6 +26,13 @@ namespace MS2Text
             var inputFilePath = args[0];//@"c:\temp\tamer.ppt";
             var textFileName = args[1]; //@"c:\temp\tamerppt.txt";
 
+            if (!string.IsNullOrEmpty(inputFilePath)
+            && File.Exists(inputFilePath))
+            {
+                Console.WriteLine("Input File Does Not Exist");
+                return;
+            }
+
             var fi = new FileInfo(inputFilePath);
 
             if (fi.Extension == ".pdf")
